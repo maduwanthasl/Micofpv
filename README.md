@@ -10,14 +10,10 @@
 ![Freestyle FPV — Mark4 + O4](https://github.com/user-attachments/assets/5bd8090f-1f3f-4780-9512-368025ca3670)
 
 ## Overview
-- **Why:** I’m deeply interested in FPV drones and built this for hobby freestyle and stress relief (durability + clean HD video).  
-- **Key specs (current):** ~5–6 min freestyle flights, hover ~17% throttle, weight ~680 g (AUW, 6S 1500 mAh), top speed ≈150 km/h.  
-- **What’s unique:** Custom 3D-printed mounts to fit the DJI **O4** Air Unit Pro on a **Mark4** frame originally intended for O3, plus simple printed feet for landing practice.
+I built this quad because I’m deeply interested in FPV and wanted a hobby freestyle rig that helps me unwind while delivering durable performance and clean HD video. In its current setup, it flies for about 5–6 minutes in freestyle, hovers at roughly 17% throttle, and weighs around 680 g (AUW with a 6S 1500 mAh pack). It also reaches an estimated top speed of about 150 km/h. What makes this build unique is a set of custom 3D-printed mounts that let the DJI O4 Air Unit Pro fit a Mark4 frame originally designed for the O3, plus simple printed feet for landing practice
 
 ### Features
-- DJI O4 digital video with iFlight ND filters  
-- ExpressLRS 2.4G link (low latency, long range)  
-- Clean wiring, soft-mounted stack, smoke-stopped first power-up
+The system uses DJI O4 digital video with iFlight ND filters, an ExpressLRS 2.4 G link for low-latency, long-range control, and clean wiring with a soft-mounted stack. For safety, the first power-up was done using a smoke stopper.
 
 ---
 
