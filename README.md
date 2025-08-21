@@ -23,23 +23,24 @@
 
 ## Bill of Materials (BOM)
 
-| Item | Model / Notes | Qty |
-| --- | --- | ---: |
-| **Frame** | Mark4 5-inch | 1 |
-| **Motors** | T-Motor Velox V2207 V3 1750 KV | 4 |
-| **FC & ESC** | SpeedyBee F405 V4 + BLS 60A 4-in-1 ESC | 1 |
-| **Receiver** | SpeedyBee Nano 2.4G **ExpressLRS** | 1 |
-| **VTX / Camera** | **DJI O4 Air Unit Pro** | 1 |
-| **Goggles** | DJI Goggles N3 | 1 |
-| **Radio** | RadioMaster Pocket (ELRS) | 1 |
-| **Propellers** | HQProp Ethix P3.3 (5″) | 2×CW + 2×CCW |
-| **Battery** | CNHL Black Series 1500 mAh 22.2 V 6S 100C (XT60) | 1+ |
-| **Storage** | Kingston Canvas Go Plus microSD | 1 |
-| **Filters** | iFlight ND set for O4 | 1 |
-| **Safety** | VIFLY ShortSaver V2 (smart smoke stopper) | 1 |
-| **Comfort** | iFlight Transmitter Neck Strap | 1 |
-| **Printed Parts** | O4 → Mark4 camera/air-unit mounts, antenna bracket, landing feet | — |
-| **Consumables** | 14–16 AWG silicone wire, 470–1000 µF low-ESR cap, heat-shrink, zip ties, threadlocker | — |
+| Component | Quantity | Unit Price (LKR) | Total (LKR) |
+|---|---:|---:|---:|
+| dji o4 unit pro | 1 | 70,000 | 70,000 |
+| dji goggles n3 | 1 | 68,000 | 68,000 |
+| radio master pocket | 1 | 25,000 | 25,000 |
+| kingston canvas go plus micro sd card | 2 | 3,500 | 7,000 |
+| Iflight ND filters | 1 | 7,000 | 7,000 |
+| mark4 5 inch frame | 1 | 6,000 | 6,000 |
+| t- motor velox v2207 v3 1750 -4 | 2 | 16,000 | 32,000 |
+| speedybee nano 2.4G express elrc receiver | 1 | 2,750 | 2,750 |
+| speedybee F405 V4 BLS 60A FC & ESC | 1 | 21,000 | 21,000 |
+| HQProp Ethix P3.3 5 inch propelers -4 | 6 | 1,000 | 6,000 |
+| CNHL Black Series 1500mAh 22.2V 6S 100C Lipo Battery with XT60 Plug | 1 | 12,160 | 12,160 |
+| VIFLY ShortSaver V2 - Smart Smoke Stopper × 1 | 1 | 6,400 | 6,400 |
+| Iflight Transmitter Neck Strap × 1 | 1 | 2,240 | 2,240 |
+
+**Grand Total: 265,550 LKR**
+
 
 ---
 
